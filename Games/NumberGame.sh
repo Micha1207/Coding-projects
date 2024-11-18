@@ -1,4 +1,5 @@
 #!/bin/bash
+# This is in BASH, specialy Ubuntu Linux.
 
 points=0
 
