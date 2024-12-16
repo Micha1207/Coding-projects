@@ -1,13 +1,21 @@
 /*
-* sceipt.c
-* Prints "Hello, World!".
+* [script name]
+* [What it does]
 *
-* Written by Michael Ł (micha1207) in GitHub's editor.
+* Written by [Your Name] [(Your GitHub Nickname)] in [editor Name].
 */
-#include <stdio.h>
+#include <stdio.h> // Libraries on Top.
 
-int main(){
-    printf("Hello, World!");
+// Definitions here:
+char *text = "Hello, World!"; 
+
+int main(){  // The Main Function.
+    // The Main Code:
+    printf("Hello, World!\n");
 
     return 0;
 }
+
+// If you want to have separate functions, 
+// define them in "Definitions", like 'void myFunc'
+// and put them here:
