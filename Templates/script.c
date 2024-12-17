@@ -11,7 +11,7 @@ char *text = "Hello, World!";
 
 int main(){  // The Main Function.
     // The Main Code:
-    printf("Hello, World!\n");
+    printf(text, "%s");
 
     return 0;
 }
