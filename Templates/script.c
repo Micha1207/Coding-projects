@@ -7,7 +7,7 @@
 #include <stdio.h> // Libraries on Top.
 
 // Definitions here:
-char *text = "Hello, World!"; 
+char *text = "Hello, World! C Code"; 
 
 int main(){  // The Main Function.
     // The Main Code:
