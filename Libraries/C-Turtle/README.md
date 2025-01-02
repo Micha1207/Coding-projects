@@ -6,5 +6,5 @@ This is a Python's Turtle-like library for C programs.
 
 You need to include ths, like a normal library in C.
 ```c
-  | #include <cturtle.h>
+  #include <cturtle.h>
 ```
